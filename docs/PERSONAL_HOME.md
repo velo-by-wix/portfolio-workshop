@@ -7,7 +7,7 @@ In this module, we'll take some time to explore Wix and customize the homepage c
 - Enabling your Developer Environment
 - [WixLocation](https://www.wix.com/corvid/new-reference/wix-location#top) - Functionality for navigating to pages on your site.
 
-**:white_check_mark: Step-by-step instructions**
+**:white_check_mark: Step-by-Step Instructions**
 
 1. Once you open the template site in your editor, change the header to your name, add your byline, and add in your current favorite project you are working on.
 2. Don't forgot to change the resume download link to your own!
@@ -23,3 +23,6 @@ import wixLocation from 'wix-location';
 ```
 wixLocation.to("/");
 ```
+
+
+:fast_forward: Next Module => [Create a Database Collection for Projects](PROJECT_COLLECTION.md)
