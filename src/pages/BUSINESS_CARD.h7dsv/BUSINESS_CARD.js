@@ -4,6 +4,6 @@ import { getSiteQRCode } from 'backend/qrcode';
 $w.onReady(async function () {
 
 	let qrImage = await getSiteQRCode();
-	$w('#image1').src = qrImage.url;
-	
+	$w('#qrImage').src = qrImage.url;
+
 });
