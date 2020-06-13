@@ -9,8 +9,13 @@ We finished building or application. Now, we want to publish or website. There a
 
 **:white_check_mark: Step-by-Step Instructions**
 1. **PUBLISH** your site.
-2. Don't forget to give it a descriptive name instead of the standard _mysite_.
+
+2. Don't forget to give it a descriptive name instead of the standard _mysite_ or _website_. <br>
+![Naming a site](assets/site-name.png)
+
 3. You can also update your QR Code Generation function to be your new site URL. In your _qrCode.jsw_ file, **update the `qrCodeLink` variable to be your site URL**.
+![updating the URL for your site](assets/update-sitename.png)
+
 4. **Publish** your site again for these changes to take on the live site.  
 
 :boom: **Hurray! You made it to the finish line. You have now acquired the skills to create your own web application using Corvid!** :confetti_ball:
