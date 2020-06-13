@@ -48,6 +48,30 @@ export async function getSiteQRCode(){
 	return qrCode;
 }
 ```
+10. Let's use this on our **Business Card** page.
+11. We can **import our exported backend function** in our frontend like we do other Wix APIs. To access the backend code, traverse the site structure like so:
+```
+import {getSiteQRCode} from 'backend/qrcode';
+```
+> This import/export relationship also works with code in your Public folder.
 
+12. In our `onReady` function, we can call this function. Since it's asynchronous, let's use async await for the qrImage. **Create a variable for the image src that is returned from the _getSiteQrCode_ function**. Don't forget when using async await, we need to add the async keyword to our `onReady` callback.
+```
+let qrImage = await getSiteQRCode();
+```
+13. Once the image src is returned, we can **set the image URL to the src property of the image on our UI**.
+```
+$w('#qrImage').src = qrImage.url;
+```
+14. Our Busines Card Page Code should look similar to this:
+```
+import {getSiteQRCode} from 'backend/qrcode';
+
+
+$w.onReady(async function () {
+	let qrImage = await getSiteQRCode();
+	$w('#image1').src = qrImage.url;
+});
+```
 
 :fast_forward: Next Module => [Corvid Package Manager](PACKAGE_MANAGER.md)   

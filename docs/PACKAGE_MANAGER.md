@@ -20,10 +20,11 @@ In this module, we'll install NPM modules, like Twilio, to use in our applicatio
 import twilio from 'twilio';
 ```
 
-5. **Add variables for an Account SID and Auth Token** which we will get in the next module when we sign up for a Twilio account.
+5. **Add variables for an Account SID and Auth Token** which we will get in the next module when we sign up for a Twilio account. Also **create a variable for your Twilio Phone Number**.
 ```
 const accountSID;
 const authToken;
+const twilioNumber;
 ```
 
 5. Lasly, **stub out an async function called sendSms**. Make sure to export it as we will need to access this function on the frontend. We will fill out this function once we learn more about the Twilio API.
