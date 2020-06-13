@@ -12,6 +12,7 @@ In this module, we'll create a dynamic page to showcase a specific project's det
 ![create a dynamic page](assets/dynamic-page.png)
 
 2. This will automatically create Dynamic Pages. You can tell the page is Dynamic instead of Static because the page icon will contain 3 pages instead of 1.
+
 ![different types of page icons](assets/page-types.png)
 
 3. To navigate to a dynamic page, Corvid automatically uses the Primary Key, which in our case is the title. You can tell what the routing structure for the dynamic page is based off what is the parentheses next to the dynamic page.
@@ -23,9 +24,12 @@ In this module, we'll create a dynamic page to showcase a specific project's det
 - 2 Text components (Title and Paragraph text components would be good options)
 - 1 Selection Tags component
 
+> Make sure to give components descriptive IDs as it makes it easier to work with them in the code as you'll remember what their intended purpose is.
+
 6. We can now connect Data to these components so they dynamically render with NO CODE(:exploding_head:). **Select a Title Text Component** on your page. **Click the Connect to Data**<img src="assets/connect-data.png" alt="Data Connection" width="3%" height="3%"> icon.
 
-7. Dynamic Pages already have a dynamic Dataset bound to them. **Connect to the Projects item** connector and **select Title** from the dropdown of _Text connects to..._ Connection Options. Now we've dynamically bound data to our UI components with no code!
+7. Dynamic Pages already have a Dynamic Dataset bound to them. **Connect to the Projects item** connector and **select Title** from the dropdown of _Text connects to..._ Connection Options. Now we've dynamically bound data to our UI components with no code!
+![connecting data to an UI element](assets/data-connect.png)
 
 8. Feel free to add additional components and connect them to your other fields in your dataset.  
 

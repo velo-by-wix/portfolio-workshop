@@ -14,6 +14,7 @@ In this module, we'll create a database collection to store your projects list.
 ![create collection form](assets/projects.png)
 
 4. A **Title** field will be created by default. <br>Add another field by clicking <img src="assets/field-add.png" alt="Field Add" width="3%" height="3%">. Name the field **Short Description** and set the Field Type to **Text**. Click **Save**.
+![create collection field](assets/collection.png)
 
 5. Add the following additional fields with the specified (type):
 - Long Description (Text)
