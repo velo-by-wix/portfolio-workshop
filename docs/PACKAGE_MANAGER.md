@@ -9,7 +9,10 @@ In this module, we'll install NPM modules, like Twilio, to use in our applicatio
 
 1. Corvid enables use to use our favorite tools that we may already be using in our other Node.JS projects, like NPM modules. We can easily install and manage our modules using the **node_modules** area under the Site Structure.
 
-2. Install the **twilio** node module from the Package Manager by **clicking the gear icon** and **Install a New Package**. You can use the search functionality to find the Twilio package.
+2. Install the **twilio** node module from the Package Manager by **clicking the gear icon** and **Install a New Package**. <br>
+![install an NPM package](assets/npm-install.png) <br>
+ You can use the search functionality to find the Twilio package. <br>
+![search in the NPM package manager](assets/npm-search.png)
 
 > After the installation, you will see the new package under the node_modules section in the Site Structure panel.
 
