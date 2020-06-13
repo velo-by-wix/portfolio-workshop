@@ -16,19 +16,19 @@ In this module, we'll install NPM modules, like Twilio, to use in our applicatio
 3. Create a new jsw file in the Backend code and and name it **textMe.jsw**.
 
 4. Remove template code and **import the twilio module** at the top of the file. You can import NPM modules just like you import Wix APIs.
-```
+```javascript
 import twilio from 'twilio';
 ```
 
 5. **Add variables for an Account SID and Auth Token** which we will get in the next module when we sign up for a Twilio account. Also **create a variable for your Twilio Phone Number**.
-```
+```javascript
 const accountSID;
 const authToken;
 const twilioNumber;
 ```
 
 5. Lasly, **stub out an async function called sendSms**. Make sure to export it as we will need to access this function on the frontend. We will fill out this function once we learn more about the Twilio API.
-```
+```javascript
 export async function sendSms(messageBody) {
 
 }
