@@ -24,7 +24,7 @@ In this module, we'll take some time to explore Wix and customize the homepage c
 ![Editing site code](assets/site-code.png)
 
 6. We can use the **`wix-location`** API to give us access to navigate the site. Start by **Importing the Wix Location API**.
-```
+```javascript
 import wixLocation from 'wix-location';
 ```
 
@@ -32,7 +32,7 @@ import wixLocation from 'wix-location';
 ![Adding onClick to Header](assets/header-click.png)
 
 8. In the empty `onClick` function, add the code to navigate to the site's home by using the `to()` method of the Wix Location API and passing in **"/"** for the base page as the parameter.
-```
+```javascript
 wixLocation.to("/");
 ```
 
