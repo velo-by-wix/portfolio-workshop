@@ -10,6 +10,7 @@ In this module, we'll take some time to explore Wix and customize the homepage c
 **:white_check_mark: Step-by-Step Instructions**
 
 1. Once you open the template site in your editor, change the header to your name, add your byline, and add in your current favorite project you are working on.
+![Editing the Homepage]("assets/homepage.png")
 2. Don't forgot to change the resume download link to your own!
 3. Now that we've made the page our own, let's enable **Dev Mode**.
 4. From the top bar menu, hover over **Dev Mode** and click **Turn on Dev Mode** to enable Corvid.
