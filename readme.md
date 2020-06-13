@@ -30,7 +30,6 @@ This workshop is divided into four modules. Each module describes what we're goi
 | [Personalize the homepage](docs/PERSONAL_HOME.md)           | Start to make the template yours and add a hard link back to the homepage.                          |
 | [Create a Database Collection for Projects](docs/PROJECT_COLLECTION.md)           | Store your projects in a dedicated collection.                            |
 | [Present the Project Details on a Page](docs/PRESENTING_A_PROJECT.md)                | Create a dynamic page for each project — without writing a line of code. |
-| [Add functionality for adding a new task](docs/ADD_NEW_TASK.md)              | Add new task records to the collection.                                   |
 | [Explore the App Market](docs/APP_MARKET.md) | Use a 3rd party application in your website.                    |
 | [Create a Project List page](docs/PROJECT_REPEATER.md)                | Set up a repeater and attached your whole list of projects to it.           |
 | [Enable Dynamic Linking](docs/DYNAMIC_LINKS.md)                                          | Create a custom link for each item in the database.                       |
