@@ -35,6 +35,7 @@ This workshop is divided into four modules. Each module describes what we're goi
 | [Enable Dynamic Linking](docs/DYNAMIC_LINKS.md)                                          | Create a custom link for each item in the database.                       |
 | [Create a custom filter](docs/CUSTOM_FILTER.md)                       | Use data in your database to create a dynamic custom filter.                            |
 | [Explore page memory](docs/PAGE_MEMORY.md)                                                   | Use wix-storage to give pages memory.                                                             |
+| [Access page memory](docs/PROJECT_MEMORY.md)                                                   | Use wix-storage to access stored memory.                                                             |
 | [JavaScript Web Modules](docs/JS_WEB_MODULES.md)           | Call server-side code from the front-end.                          |
 | [Corvid Package Manager](docs/PACKAGE_MANAGER.md)                                                              | Manage your site's npm packages with the Package Manager.                                                              |
 | [Getting started with Twilio](docs/TWILIO_START.md)                                       | Sign up for a free account with Twilio and get a phone number to use.                                                               |
