@@ -1,0 +1,11 @@
+{
+  "extends": "corvid-types/configs/tsconfig.backend.json",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "backend/*": [
+        "./*"
+      ]
+    }
+  }
+}

@@ -1,0 +1,22 @@
+// Filename: backend/textme.jsw (web modules need to have a .jsw extension)
+import twilio from 'twilio';
+
+const accountSid;
+const authToken;
+const twilioNumber;
+
+
+export async function sendSms(messageBody) {
+	const client = new twilio(accountSid, authToken);
+
+	try {
+		const message = await client.messages.create({
+			body: messageBody,
+			to: myPhoneNumber,
+			from: twilioNumber
+		})
+		console.log('sid', message.sid)
+	} catch (e) {
+		console.log('error', e.message)
+	}
+}

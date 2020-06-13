@@ -1,0 +1,9 @@
+// Filename: backend/qrcode.jsw (web modules need to have a .jsw extension)
+import {fetch} from 'wix-fetch';
+
+export async function getSiteQRCode(){
+	const homepage = "https://meredithh2.wixsite.com/myresume";
+	let fetchUrl = "https://api.qrserver.com/v1/create-qr-code/?size=200x200&data="+homepage;
+	let qrCode = await fetch(fetchUrl);
+	return qrCode;
+}
