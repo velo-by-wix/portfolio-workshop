@@ -6,7 +6,7 @@ In this module, we'll take a quick look at how you can add third party apps to y
 
 1. Sometimes, it's easier to let someone else do all the heavy lifting for you. We'll explore how to use NPM modules and integrate with REST APIs later, but now let's look at how to add UI Widgets.
 
-2. Click the **Add Apps** button. This will open the Wix App Market.
+2. Click the **Add Apps** button. This will open the Wix App Market. <br>
 ![Add Apps button](assets/add-apps.png)
 
 3. Wix and other 3rd Parties have created UI Widgets to expand the depth of functionality you can add out of the box with no coding. If you ever can't find the UI component you are looking for, this is a good place to explore.
