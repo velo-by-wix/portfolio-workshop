@@ -18,4 +18,4 @@ In this module, we'll create a database collection to store your projects list.
 
 :exclamation: **We just created a new database collection. In the next module, we'll present the data in our web application.**
 
-:fast_forward: Next Module => [Present the Project Details on a Page](PRESENTING_A_PROJECT.md)
+:fast_forward: Next Module => [Present the Project Details on a Page](PRESENT_A_PROJECT.md)
