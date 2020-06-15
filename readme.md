@@ -12,11 +12,11 @@ The complete code for the application is in the [src](src) folder.
 
 ## Getting Started
 
-This workshop is based on a pre-designed [template](https://www.wix.com/website-template/view/html/2495).
+This workshop is based on a pre-designed [template](https://www.wix.com/meredithh2/dynamic-portfolio).
 
 **:white_check_mark: Step-by-step instructions**
 
-1. Go to this [template](https://www.wix.com/website-template/view/html/2495).
+1. Go to this [template](https://editor.wix.com/html/editor/web/renderer/new?siteId=fdd160f4-68b9-4467-a8e3-1b2ef76006d4&metaSiteId=b05d1744-26e0-4c30-aeae-5297db44109a).
 2. Click **Edit this site**.
 3. Sign in to Wix.
 4. Let's start having fun!
