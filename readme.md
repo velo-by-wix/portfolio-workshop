@@ -14,6 +14,8 @@ The complete code for the application is in the [src](src) folder.
 
 This workshop is based on a pre-designed [template](https://www.wix.com/meredithh2/dynamic-portfolio).
 
+If you need help or have any questions, please direct them to the shared [Slack Channel](https://join.slack.com/share/zt-fak54sz5-~tT~11YT00jhg0wKr1nJJg).
+
 **:white_check_mark: Step-by-step instructions**
 
 1. Go to this [template](https://editor.wix.com/html/editor/web/renderer/new?siteId=fdd160f4-68b9-4467-a8e3-1b2ef76006d4&metaSiteId=b05d1744-26e0-4c30-aeae-5297db44109a).
