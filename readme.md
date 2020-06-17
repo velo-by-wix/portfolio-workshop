@@ -14,6 +14,8 @@ The complete code for the application is in the [src](src) folder.
 
 This workshop is based on a pre-designed [template](https://www.wix.com/meredithh2/dynamic-portfolio).
 
+To review the slides that go along with this workshop, please look [here](/docs/assets/Hackbright.pdf).
+
 If you need help or have any questions, please direct them to the shared [Slack Channel](https://join.slack.com/share/zt-fak54sz5-~tT~11YT00jhg0wKr1nJJg).
 
 **:white_check_mark: Step-by-step instructions**
