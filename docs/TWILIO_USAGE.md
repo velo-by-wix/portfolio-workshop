@@ -1,6 +1,6 @@
-## Using Twilio in Corvid
+## Using Twilio in Velo
 
-In this module, we will use the Twilio API in our Corvid code.
+In this module, we will use the Twilio API in our Velo code.
 
 **:white_check_mark: Step-by-Step Instructions**
 ### BACKEND
