@@ -1,13 +1,13 @@
-## Corvid Package Manager
+## Velo Package Manager
 
 In this module, we'll install NPM modules, like Twilio, to use in our application.
 
 **:bulb: New concepts**
-- [Package Manager](https://support.wix.com/en/article/corvid-managing-external-code-libraries-with-the-package-manager): Using NPM modules inside of Corvid
+- [Package Manager](https://support.wix.com/en/article/velo-working-with-npm-packages): Using NPM modules inside of Velo
 
 **:white_check_mark: Step-by-Step Instructions**
 
-1. Corvid enables use to use our favorite tools that we may already be using in our other Node.JS projects, like NPM modules. We can easily install and manage our modules using the **node_modules** area under the Site Structure.
+1. Velo enables use to use our favorite tools that we may already be using in our other Node.JS projects, like NPM modules. We can easily install and manage our modules using the **node_modules** area under the Site Structure.
 
 2. Install the **twilio** node module from the Package Manager by **clicking the gear icon** and **Install a New Package**. <br>
 ![install an NPM package](assets/npm-install.png) <br>
