@@ -18,4 +18,4 @@ We finished building or application. Now, we want to publish or website. There a
 
 4. **Publish** your site again for these changes to take on the live site.  
 
-:boom: **Hurray! You made it to the finish line. You have now acquired the skills to create your own web application using Corvid!** :confetti_ball:
+:boom: **Hurray! You made it to the finish line. You have now acquired the skills to create your own web application using Velo!** :confetti_ball:
