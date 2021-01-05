@@ -17,7 +17,7 @@ In this module, we'll take some time to explore Wix and customize the homepage c
 
 3. Now that we've made the page our own, let's enable **Dev Mode**.
 
-4. From the top bar menu, hover over **Dev Mode** and click **Turn on Dev Mode** to enable Corvid.
+4. From the top bar menu, hover over **Dev Mode** and click **Turn on Dev Mode** to enable Velo.
 ![Enabling Dev Mode](assets/devmode.png)
 
 5. In the IDE on the bottom of your screen, click **Site**. We'll add some site level code that we be available on all pages in your site.
