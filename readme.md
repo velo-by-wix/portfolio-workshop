@@ -4,8 +4,8 @@ In this workshop, we'll show you many features of Velo by Wix, but this is just 
 
 **:link: Useful Links**
 
-- [Velo API Reference](https://www.wix.com/Velo/reference/) covers all of Velo's APIs.
-- [Velo Home Page](https://www.wix.com/Velo) contains all Velo materials.
+- [Velo API Reference](https://www.wix.com/velo/reference/) covers all of Velo's APIs.
+- [Velo Home Page](https://www.wix.com/velo) contains all Velo materials.
 - [velo-cli npm package](https://www.npmjs.com/package/corvid-cli) enables you to work in your own local editor.
 
 The complete code for the application is in the [src](src) folder.
