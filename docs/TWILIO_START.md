@@ -24,4 +24,4 @@ In this module, we will create a Twilio Account, obtain account keys necessary f
 - twilioNumber
 
 
-:fast_forward: Next Module => [Using Twilio in Corvid](TWILIO_USAGE.md)  
+:fast_forward: Next Module => [Using Twilio in Velo](TWILIO_USAGE.md)  
