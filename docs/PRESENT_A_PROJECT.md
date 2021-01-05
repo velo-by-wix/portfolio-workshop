@@ -14,7 +14,7 @@ In this module, we'll create a dynamic page to showcase a specific project's det
 2. This will automatically create Dynamic Pages. You can tell the page is Dynamic instead of Static because the page icon will contain 3 pages instead of 1. <br>
 ![different types of page icons](assets/page-types.png)
 
-3. To navigate to a dynamic page, Corvid automatically uses the Primary Key, which in our case is the title. You can tell what the routing structure for the dynamic page is based off what is the parentheses next to the dynamic page.
+3. To navigate to a dynamic page, Velo automatically uses the Primary Key, which in our case is the title. You can tell what the routing structure for the dynamic page is based off what is the parentheses next to the dynamic page.
 
 4. **Select the MyProjects (Title) Dynamic Page** so we can add UI elements to it.
 
