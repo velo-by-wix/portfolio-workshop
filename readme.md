@@ -1,12 +1,12 @@
 # Welcome to our Portfolio Workshop!
 
-In this workshop, we'll show you many features of Corvid by Wix, but this is just the start. Corvid opens up an entire JavaScript web development platform on top of Wix so you can customize your site without additional maintenance headaches or extra hosting costs. If you want to learn more about Corvid, check out [our site](https://www.wix.com/corvid/).
+In this workshop, we'll show you many features of Velo by Wix, but this is just the start. Velo opens up an entire JavaScript web development platform on top of Wix so you can customize your site without additional maintenance headaches or extra hosting costs. If you want to learn more about Velo, check out [our site](https://www.wix.com/Velo/).
 
 **:link: Useful Links**
 
-- [Corvid API Reference](https://www.wix.com/corvid/reference/) covers all of Corvid's APIs.
-- [Corvid Home Page](https://www.wix.com/corvid) contains all Corvid materials.
-- [corvid-cli npm package](https://www.npmjs.com/package/corvid-cli) enables you to work in your own local editor.
+- [Velo API Reference](https://www.wix.com/Velo/reference/) covers all of Velo's APIs.
+- [Velo Home Page](https://www.wix.com/Velo) contains all Velo materials.
+- [velo-cli npm package](https://www.npmjs.com/package/corvid-cli) enables you to work in your own local editor.
 
 The complete code for the application is in the [src](src) folder.
 
@@ -41,7 +41,7 @@ This workshop is divided into four modules. Each module describes what we're goi
 | [Explore page memory](docs/PAGE_MEMORY.md)                                                   | Use wix-storage to give pages memory.                                                             |
 | [Access page memory](docs/PROJECT_MEMORY.md)                                                   | Use wix-storage to access stored memory.                                                             |
 | [JavaScript Web Modules](docs/JS_WEB_MODULES.md)           | Call server-side code from the front-end.                          |
-| [Corvid Package Manager](docs/PACKAGE_MANAGER.md)                                                              | Manage your site's npm packages with the Package Manager.                                                              |
+| [Velo Package Manager](docs/PACKAGE_MANAGER.md)                                                              | Manage your site's npm packages with the Package Manager.                                                              |
 | [Getting started with Twilio](docs/TWILIO_START.md)                                       | Sign up for a free account with Twilio and get a phone number to use.                                                               |
-| [Using Twilio in Corvid](docs/TWILIO_USAGE.md)                                       | Accept data in the UI to send with Twilio.                                                               |
+| [Using Twilio in Velo](docs/TWILIO_USAGE.md)                                       | Accept data in the UI to send with Twilio.                                                               |
 | [Production](docs/PRODUCTION.md)                                                           | Go live.                                                               |
