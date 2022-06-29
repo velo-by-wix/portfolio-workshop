@@ -90,4 +90,4 @@ $w.onReady(async function () {
 });
 ```
 
-:fast_forward: Next Module => [Velo Package Manager](PACKAGE_MANAGER.md)   
+:fast_forward: Next Module => [Let's go live!](PRODUTION.md)   
