@@ -1,6 +1,6 @@
 ## Go Live!
 
-We finished building or application. Now, we want to publish or website. There are a few things we need to know before:
+We finished building or application. Now, we want to publish our website. There are a few things we need to know before:
 
 - [Sandbox vs. Live](https://support.wix.com/en/article/accessing-your-sandbox-and-live-database-collections) - Each of your collections has two versions; one copy is your site's sandbox data, and the other is your site's live data. The sandbox data is what you work with while creating your site. The live data is what your visitors interact with once your site is published.
 - [Collection Permissions](https://support.wix.com/en/article/about-collection-permissions) - Give you control over which visitors are allowed to interact with the data in your collections and what they are allowed to do.
@@ -18,4 +18,4 @@ We finished building or application. Now, we want to publish or website. There a
 
 4. **Publish** your site again for these changes to take on the live site.  
 
-:boom: **Hurray! You made it to the finish line. You have now acquired the skills to create your own web application using Velo!** :confetti_ball:
+:boom: **Hurray! You've completed the challenge. You have now acquired the skills to create your own web application using Velo!** :confetti_ball:
